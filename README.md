@@ -34,10 +34,8 @@ The deployment followed a **3-tier model**:
 
 ---
 
-## 📂 Repository Contents  
-📄 **Final_test.docx / PDF** → Detailed report with steps, screenshots, and results  
-📝 **README.md** → Project documentation (this file)  
-
+## 📂 Deliverable
+- [📥 Download Docx which has all screenshots](https://github.com/kowshal97/AWS-Cloud-Deployment/raw/main/Cloud%20Deployment.pdf)
 ---
 
 ## 🧰 Technologies Used  
