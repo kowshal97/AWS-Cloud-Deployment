@@ -42,12 +42,6 @@ The deployment followed a **3-tier model**:
 - ☁️ AWS: VPC, EC2, ALB, RDS Aurora, Auto Scaling, CloudWatch  
 - 🗄️ PostgreSQL  
 - 🐧 Linux (Amazon Linux 2), Apache, PHP  
-
----
-
-## 📸 Screenshots  
-(Add your architecture diagram + AWS console screenshots + scaling proof here)  
-
 ---
 
 ## 🎯 Key Learnings  
