@@ -56,9 +56,3 @@ The deployment followed a **3-tier model**:
 - ✅ Implemented **RDS Aurora backups + PITR**  
 - ✅ Gained strong **hands-on cloud deployment skills**  
 
----
-
-## 👤 Author  
-**Kowshal Sugunarajah**  
-🎓 Postgraduate Student – Cloud Computing @ Durham College  
-💼 Ex-QA at Amazon | ☁️ Cloud Enthusiast | 🗄️ Database & Automation Tester  
