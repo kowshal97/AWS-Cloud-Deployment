@@ -1,4 +1,4 @@
-# ☁️ AWS Final Test Project – Cloud Deployment  
+# ☁️ AWS – Cloud Deployment  
 
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)  
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-orange)  
