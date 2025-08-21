@@ -9,7 +9,7 @@
 ---
 
 ## 📌 Overview  
-This project is part of my **Final Test submission** for the Cloud Computing program at Durham College.  
+This project is part of my **Final Test submission** for the Cloud Computing.  
 It demonstrates how to design and deploy a **secure, highly available 3-tier architecture** on AWS with auto scaling and database recovery.  
 
 ---
